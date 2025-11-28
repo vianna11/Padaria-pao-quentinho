@@ -1,0 +1,10 @@
+---DELETANDO O CLIENTE ---
+
+DELETE FROM cliente WHERE id_cliente = 4;
+
+---DELETANDO TABELA ----
+DELETE FROM fornecedor;
+
+---DELETANDO CLIENTE ESPECIFICO ANTIGO----
+
+DELETE FROM cliente WHERE nome ='Ana Maria' AND telefone='21 93465-8976';
