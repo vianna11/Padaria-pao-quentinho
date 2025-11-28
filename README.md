@@ -10,7 +10,8 @@ Este repositório contém os materiais desenvolvidos para a Atividade 04, cujo f
 SQL
 SQLiteStudio
 
-MySQL Workbench ou PGAdmin
+
+
 🎯 Objetivos da Atividade
 
 Compreender a diferença entre linguagem SQL e linguagens de programação;
