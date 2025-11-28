@@ -4,6 +4,13 @@ Atividade 04 – Fundamentos e Preparação do Ambiente (SQL)
 
 Este repositório contém os materiais desenvolvidos para a Atividade 04, cujo foco é a compreensão dos fundamentos da linguagem SQL, preparação do ambiente de desenvolvimento e aplicação prática dos principais comandos da DML.
 
+
+🛠️ Tecnologias Utilizadas
+
+SQL
+SQLiteStudio
+
+MySQL Workbench ou PGAdmin
 🎯 Objetivos da Atividade
 
 Compreender a diferença entre linguagem SQL e linguagens de programação;
